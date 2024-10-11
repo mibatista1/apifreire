@@ -1,0 +1,57 @@
+Erro na classificação de texto: name 'load' is not defined
+Erro na análise de sentimento: main thread is not in main loop
+Erro durante a análise: main thread is not in main loop
+Erro na análise de N-gramas: 'dict' object has no attribute 'most_common'
+Erro na análise de coocorrência de palavras: Input is not known type.
+Erro na análise de relações de palavras: main thread is not in main loop
+Erro na análise de palavras-chave: name 'Rake' is not defined
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: 'csr_matrix' object has no attribute 'A'
+Erro durante a análise: 'csr_matrix' object has no attribute 'A'
+Erro durante a análise: 'csr_matrix' object has no attribute 'A'
+Erro durante a análise: name 'textstat' is not defined
+Erro durante a análise: name 'textstat' is not defined
+Erro durante a análise: The 'stop_words' parameter of TfidfVectorizer must be a str among {'english'}, an instance of 'list' or None. Got 'portuguese' instead.
+Erro durante a análise: Rake.__init__() got an unexpected keyword argument 'language_code'
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'textstat' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'textstat' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'textstat' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: name 'fig' is not defined
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: 'csr_matrix' object has no attribute 'lower'
+Erro durante a análise: Rake.__init__() got an unexpected keyword argument 'language_code'
+Erro durante a análise: Rake.__init__() got an unexpected keyword argument 'language_code'
+Erro durante a análise: Must pass 2-d input. shape=()
+Erro durante a análise: Must pass 2-d input. shape=()
+Erro durante a análise: Must pass 2-d input. shape=()
+Erro durante a análise: 'TextBlob' object has no attribute 'readability'
+Erro durante a análise: X has 917 features, but LogisticRegression is expecting 2 features as input.
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: 'TextBlob' object has no attribute 'readability'
+Erro durante a análise: X has 230 features, but LogisticRegression is expecting 2 features as input.
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: 'TextBlob' object has no attribute 'readability'
+Erro durante a análise: X has 917 features, but LogisticRegression is expecting 2 features as input.
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: X has 917 features, but LogisticRegression is expecting 2 features as input.
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: X has 917 features, but LogisticRegression is expecting 2 features as input.
+Erro durante a análise: 'TextBlob' object has no attribute 'readability'
+Erro durante a análise: X has 917 features, but LogisticRegression is expecting 2 features as input.
+Erro durante a análise: cannot access local variable 'ngrams' where it is not associated with a value
+Erro durante a análise: shape mismatch: objects cannot be broadcast to a single shape.  Mismatch is between arg 0 with shape (10, 2) and arg 1 with shape (10,).
+Erro durante a análise: shape mismatch: objects cannot be broadcast to a single shape.  Mismatch is between arg 0 with shape (10, 2) and arg 1 with shape (10,).
+Erro durante a análise: shape mismatch: objects cannot be broadcast to a single shape.  Mismatch is between arg 0 with shape (10, 3) and arg 1 with shape (10,).
